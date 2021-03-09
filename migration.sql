@@ -3,7 +3,6 @@
 # mysqldump -u root employees > emp.sql
 # mysql -u root; 'create database if not exists employee;'
 # mysql -u root employee < emp.sql
-use employee;
 
 # Aufgabe 2
 RENAME TABLE departments to department;
